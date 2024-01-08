@@ -1,0 +1,93 @@
+Calendar Web App
+https://calendaryyyy.000webhostapp.com/login_form.php
+
+**Objective:**
+Create a user-friendly calendar web application that allows users to schedule events, set reminders, and customize their interface. Additionally, implement user authentication for admin access using PHP.
+
+**Technologies Used:**
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP (for user authentication)
+
+Features:
+
+1. **Calendar Display:**
+   - User-friendly interface displaying months, weekdays, and days.
+   - Navigation buttons (previous and next) to switch between months.
+
+2. **Event Scheduling:**
+   - Ability for users to schedule events for specific dates.
+   - Events displayed on the calendar with a distinct style.
+
+3. **User Authentication:**
+   - Admin authentication using PHP sessions.
+   - Login and logout functionality.
+
+4. **Deployed the web app using free hosting**
+   - used the 000webhost for hosting the web app
+
+**File Structure:**
+- **index.html:** Main HTML file containing the structure of the web app.
+- **style.css:** Cascading Style Sheet for styling the web app.
+- **script.js:** JavaScript file for dynamic interactions and event handling.
+- **config.php:** PHP file containing configuration settings.
+
+**CSS Frameworks and Libraries:**
+- Font Awesome (for icons)
+- Google Fonts (for font styles)
+
+**Responsiveness:**
+- The web app is designed to be responsive, providing a seamless experience across various devices and screen sizes.
+
+**Usage:**
+1. Clone the repository or download the project files.
+2. Set up a local server environment (e.g., using XAMPP, WampServer, or similar).
+3. Place the project files in the server's root directory.
+4. Access the web app through the Calendar Web App
+https://calendaryyyy.000webhostapp.com/login_form.php
+
+**Objective:**
+Create a user-friendly calendar web application that allows users to schedule events, set reminders, and customize their interface. Additionally, implement user authentication for admin access using PHP.
+
+**Technologies Used:**
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP (for user authentication)
+
+Features:
+
+1. **Calendar Display:**
+   - User-friendly interface displaying months, weekdays, and days.
+   - Navigation buttons (previous and next) to switch between months.
+
+2. **Event Scheduling:**
+   - Ability for users to schedule events for specific dates.
+   - Events displayed on the calendar with a distinct style.
+
+3. **User Authentication:**
+   - Admin authentication using PHP sessions.
+   - Login and logout functionality.
+
+4. **Deployed the web app using free hosting**
+   - used the 000webhost for hosting the web app
+
+**File Structure:**
+- **index.html:** Main HTML file containing the structure of the web app.
+- **style.css:** Cascading Style Sheet for styling the web app.
+- **script.js:** JavaScript file for dynamic interactions and event handling.
+- **config.php:** PHP file containing configuration settings.
+
+**CSS Frameworks and Libraries:**
+- Font Awesome (for icons)
+- Google Fonts (for font styles)
+
+**Responsiveness:**
+- The web app is designed to be responsive, providing a seamless experience across various devices and screen sizes.
+
+**Usage:**
+ Access the web app through the https://calendaryyyy.000webhostapp.com/login_form.php
+
+
+
